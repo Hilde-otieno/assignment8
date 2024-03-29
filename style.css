@@ -1,0 +1,355 @@
+#container{
+    width: 1650px;
+    background-color: rgb(229, 236, 236);
+
+}
+#image{
+    width: 150px;
+    height: 30px;
+}
+#navbar{
+    width: 1450px;
+    height: 80px;
+    background-color: rgb(193, 207, 207);
+    font-size: larger;
+    gap: 7%;
+    display: flex;
+    margin: 100px;
+    border-radius: 30px;
+}
+#button{
+    width: 100px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: orange;
+    margin: 10px;
+    font-size: larger;
+}
+#photo{
+    background-image: url("Images/desert2.jpg");
+    width: 1650px;
+    height: 1000px;
+}
+#travel{
+    font-size: xxx-large;
+    text-align: center;
+    -webkit-text-fill-color: aliceblue;
+}
+#buttonphoto{
+    width: 400px;
+    height: 80px;
+    border-radius: 20px;
+    background-color: orange;
+    font-size: xx-large;
+    gap: 23%;
+    display: flex;
+    margin-left: 600px;
+}
+#words{
+    font-size: larger;
+}
+#grand{
+    background-image: url("Images/grandkor.webp");
+    width: 400px;
+    height: 300px;
+    border-radius: 15px;
+}
+#bora{
+    background-image: url("Images/mbabamb-3-largejpg.jpg");
+    width: 400px;
+    height: 300px;
+    border-radius: 15px;
+}
+#wat{
+    background-image: url("Images/angkor.jpg");
+    width: 400px;
+    height: 300px;
+    border-radius: 15px;
+}
+#trees{
+    display: flex;
+    gap: 8%;
+    margin: 100px;
+}
+#image{
+    background-color: aliceblue;
+    width: 400px;
+    height: 570px;
+    border-radius: 15px;
+}
+#what{
+    background-color: aliceblue;
+    width: 400px;
+    height: 570px;
+    border-radius: 15px;
+}
+#images{
+    background-color: rgb(248, 244, 236);
+    width: 400px;
+    height: 570px;
+    border-radius: 15px;
+}  
+#words{
+    text-align: center;
+}
+#tick{
+    height: 80px;
+    width: 80px;
+    border-radius: 50px;
+    margin-left: 320px;
+}
+#arrow{
+    height: 50px;
+    width: 50px;
+    border-radius: 20px;
+}
+#buttons{
+    border-radius: 100px;
+    width: 60px;
+    display:inline-flex
+}
+#arrow1{
+    height: 50px;
+    width: 50px;
+    border-radius: 20px;
+}
+#topic{
+    text-align: center;
+    font-size: xx-large;
+}
+#optimize{
+     display: flex;
+     gap: 5%;
+     margin-left: 100px;
+}
+#set{
+    width: 100px;
+    height: 100px;
+}
+#line{
+    width: 250px;
+    height: 100px;
+}
+#scote{
+    width: 100px;
+    height: 50px;
+    border-radius: 30px;
+}
+#italy{
+    width: 100px;
+    height: 50px;
+    -webkit-text-fill-color: orange;
+    border-radius: 30px;
+    gap: 7%;
+}
+#top{
+    font-size: x-large;
+    text-align: center;
+}
+#florence{
+    background-image: url("Images/florence.webp");
+    width: 550px;
+    height: 300px;
+    border-radius: 20px;
+    
+}
+#direct{
+    width: 70px;
+    height: 70px;
+    border-radius: 40px;
+}
+#buttoninside{
+    display: inline-flex;
+}
+#venice{
+    background-image: url("Images/Grand_Canal_Venice (1).jpg");
+    width: 550px;
+    height: 300px;
+    border-radius: 20px;
+}
+#flor{
+    margin-left: 400px;
+    font-size: x-large;
+    display: flex;
+}
+#ven{
+    margin-left: 400px;
+    font-size: x-large;
+    display: flex;
+}
+#countries{
+    display: flex;
+    gap: 2%;
+}
+#porto{
+    background-image: url("Images/porto-cervo.jpg");
+    width: 550px;
+    height: 600px;
+    border-radius: 20px;
+}
+#cervo{
+    margin-left: 350px;
+    font-size: x-large;
+    display: flex;
+}
+#milan{
+    background-image: url("Images/milan7.jpeg");
+    width: 400px;
+    height: 300px;
+    border-radius: 20px;
+}
+#mil{
+    margin-left: 270px;
+    font-size: x-large;
+    display: flex;
+}
+#rome{
+    background-image: url("https://romesite.com/images/visit-rome-italy.jpg");
+    width: 400px;
+    height: 300px;
+    border-radius: 20px;
+}
+#rom{
+    margin-left: 270px;
+    font-size: x-large;
+    display: flex;
+}
+#clients{
+    text-align: center;
+}
+#stars{
+    display: flex;
+    gap: 15%;
+    text-align: center;
+    margin-left: 220px;
+}
+#customers{
+     display: flex;
+     gap: 5%;
+}
+#keya{
+     width: 70px;
+     height: 70px;
+}
+#rate{
+    width: 150px;
+}
+#blog{
+    text-align: center;
+    font-size: larger;
+}
+#exploring{
+    background-image: url("Images/florence.webp");
+    width: 600px;
+    height: 400px;
+    display: block;
+    gap: 8%;
+    -webkit-text-fill-color: aliceblue;
+    margin-left: 50px;
+}
+#timeless{
+    display: flex;
+    gap: 8%;
+}
+#price{
+    width: 60px;
+    height: 60px;
+}
+#details{
+    display: flex;
+    gap: 8%;
+    width: 700px;
+}
+#page{
+    display: flex;
+    gap: 8%;
+    width: 700px;
+}
+#look{
+    display: flex;
+    gap: 8%;
+}
+#form{
+    width: 400px;
+    height: 400px;
+   font-size: larger;
+   background-color: aliceblue;
+}
+#tton{
+    width: 200px;
+    height: 70px;
+    background-color: orange;
+    border-radius: 30px;
+    display: flex;
+    gap: 10%;
+    font-size: larger;
+    margin-left: 50px;
+}
+#questions{
+    width: 1300px;
+    height: 400px;
+    display: flex;
+    gap: 20%;
+    background-color: rgb(226, 153, 16);
+    border-radius: 30px;
+    margin-left: 150px;
+}
+#confirm{
+    width: 50px;
+    height: 50px;
+    border-radius: 40px;
+}
+#log{
+    width: 150px;
+    height: 40px;
+    background-color: orange;
+    -webkit-text-fill-color: aliceblue;
+    border-radius: 30px;
+    font-size: large;
+}
+#sign{
+    width: 150px;
+    height: 40px;
+    border-radius: 30px;
+    font-size: large;
+}
+#choose{
+    background-image: url("Images/peace5.jpg");
+    width: 1500px;
+    height: 700px;
+    text-align: center;
+    margin-left: 100px;
+    font-size: xxx-large;
+    -webkit-text-fill-color: rgb(7, 7, 7);
+}
+#end{
+    width: 40px;
+    height: 40px;
+}
+#email{
+    width: 600px;
+    gap: 30%;
+    height: 50px;
+    border-radius: 70px;
+    font-size: larger;
+}
+#subscribe{
+    text-align: center;
+}
+#world{
+    width: 250px;
+    height: 70px;
+}
+#media{
+    width: 50px;
+    height: 50px;
+    display: flex;
+}
+#footer{
+    display: flex;
+    gap: 8%;
+    margin-left: 300px;
+}
+#reserved{
+    text-align: center;
+}
