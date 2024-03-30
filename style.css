@@ -353,3 +353,383 @@
 #reserved{
     text-align: center;
 }
+@media all and (min-width:350px) and (max-width: 1024px){
+    #container{
+        width: 100%;
+        background-color: rgb(229, 236, 236);
+    
+    }
+    #world{
+        width: 3%;
+        height: 3%;
+    }
+    #image{
+        width: 15px;
+        height: 3px;
+    }
+    #navbar{
+        width: 145px;
+        height: 8px;
+        background-color: rgb(193, 207, 207);
+        font-size: smaller;
+        gap: 7%;
+        display: flex;
+        flex-wrap: wrap;
+        margin: 10px;
+        border-radius: 3px;
+    }
+    #button{
+        width: 10px;
+        height: 4px;
+        border-radius: 2px;
+        background-color: orange;
+        margin: 1px;
+        font-size: smaller;
+    }
+    #photo{
+        background-image: url("Images/desert2.jpg");
+        width: 16px;
+        height: 10px;
+    }
+    #travel{
+        font-size: smaller;
+        text-align: center;
+        -webkit-text-fill-color: aliceblue;
+    }
+    #buttonphoto{
+        width: 40px;
+        height: 8px;
+        border-radius: 2px;
+        background-color: orange;
+        font-size: smaller;
+        gap: 23%;
+        display: flex;
+        flex-wrap: wrap;
+        margin-left: 60px;
+    }
+    #words{
+        font-size: smaller;
+    }
+    #grand{
+        background-image: url("Images/grandkor.webp");
+        width: 40px;
+        height: 30px;
+        border-radius: 15px;
+    }
+    #bora{
+        background-image: url("Images/mbabamb-3-largejpg.jpg");
+        width: 40px;
+        height: 30px;
+        border-radius: 15px;
+    }
+    #wat{
+        background-image: url("Images/angkor.jpg");
+        width: 40px;
+        height: 30px;
+        border-radius: 15px;
+    }
+    #trees{
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8%;
+        margin: 10px;
+    }
+    #image{
+        background-color: aliceblue;
+        width: 40px;
+        height: 57px;
+        border-radius: 15px;
+    }
+    #what{
+        background-color: aliceblue;
+        width: 40px;
+        height: 57px;
+        border-radius: 15px;
+    }
+    #images{
+        background-color: rgb(248, 244, 236);
+        width: 40px;
+        height: 57px;
+        border-radius: 15px;
+    }  
+    #words{
+        text-align: center;
+    }
+    #tick{
+        height: 8px;
+        width: 8px;
+        border-radius: 5px;
+        margin-left: 32px;
+    }
+    #arrow{
+        height: 5px;
+        width: 5px;
+        border-radius: 2px;
+    }
+    #buttons{
+        border-radius: 10px;
+        width: 6px;
+        display:inline-flex
+    }
+    #arrow1{
+        height: 50px;
+        width: 50px;
+        border-radius: 20px;
+    }
+    #topic{
+        text-align: center;
+        font-size: smaller;
+    }
+    #optimize{
+         display: flex;
+         flex-wrap: wrap;
+         gap: 5%;
+         margin-left: 10px;
+    }
+    #set{
+        width: 10px;
+        height: 10px;
+    }
+    #line{
+        width: 25px;
+        height: 10px;
+    }
+    #scote{
+        width: 10px;
+        height: 5px;
+        border-radius: 3px;
+    }
+    #italy{
+        width: 10px;
+        height: 5px;
+        -webkit-text-fill-color: orange;
+        border-radius: 3px;
+        gap: 7%;
+    }
+    #top{
+        font-size: smaller;
+        text-align: center;
+    }
+    #florence{
+        background-image: url("Images/florence.webp");
+        width: 55px;
+        height: 30px;
+        border-radius: 2px;
+        
+    }
+    #direct{
+        width: 7px;
+        height: 7px;
+        border-radius: 4px;
+    }
+    #buttoninside{
+        display: inline-flex;
+    }
+    #venice{
+        background-image: url("Images/Grand_Canal_Venice (1).jpg");
+        width: 55px;
+        height: 30px;
+        border-radius: 2px;
+    }
+    #flor{
+        margin-left: 40px;
+        font-size: smaller;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    #ven{
+        margin-left: 40px;
+        font-size: smaller;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    #countries{
+        display: flex;
+        flex-wrap: wrap;
+        gap: 2%;
+    }
+    #porto{
+        background-image: url("Images/porto-cervo.jpg");
+        width: 55px;
+        height: 60px;
+        border-radius: 2px;
+    }
+    #cervo{
+        margin-left: 35px;
+        font-size: smaller;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    #milan{
+        background-image: url("Images/milan7.jpeg");
+        width: 40px;
+        height: 30px;
+        border-radius: 2px;
+    }
+    #mil{
+        margin-left: 27px;
+        font-size: smaller;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    #rome{
+        background-image: url("https://romesite.com/images/visit-rome-italy.jpg");
+        width: 40px;
+        height: 30px;
+        border-radius: 2px;
+    }
+    #rom{
+        margin-left: 27px;
+        font-size: smaller;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    #clients{
+        text-align: center;
+    }
+    #stars{
+        display: flex;
+        flex-wrap: wrap;
+        gap: 15%;
+        text-align: center;
+        margin-left: 22px;
+    }
+    #customers{
+         display: flex;
+         flex-wrap: wrap;
+         gap: 5%;
+    }
+    #keya{
+         width: 7px;
+         height: 7px;
+    }
+    #rate{
+        width: 15px;
+    }
+    #blog{
+        text-align: center;
+        font-size: smaller;
+    }
+    #exploring{
+        background-image: url("Images/florence.webp");
+        width: 60px;
+        height: 40px;
+        display: block;
+        gap: 8%;
+        -webkit-text-fill-color: aliceblue;
+        margin-left: 5px;
+    }
+    #timeless{
+        display: flex;
+        gap: 8%;
+    }
+    #price{
+        width: 6px;
+        height: 6px;
+    }
+    #details{
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8%;
+        width: 70px;
+    }
+    #page{
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8%;
+        width: 7px;
+    }
+    #look{
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8%;
+    }
+    #form{
+        width: 40px;
+        height: 40px;
+       font-size: smaller;
+       background-color: aliceblue;
+    }
+    #tton{
+        width: 20px;
+        height: 7px;
+        background-color: orange;
+        border-radius: 3px;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10%;
+        font-size:xx-small;
+        margin-left: 5px;
+    }
+    #questions{
+        width: 130px;
+        height: 40px;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 20%;
+        background-color: rgb(226, 153, 16);
+        border-radius: 3px;
+        margin-left: 15px;
+    }
+    #confirm{
+        width: 5px;
+        height: 5px;
+        border-radius: 4px;
+    }
+    #log{
+        width: 15px;
+        height: 4px;
+        background-color: orange;
+        -webkit-text-fill-color: aliceblue;
+        border-radius: 3px;
+        font-size: xx-small;
+    }
+    #sign{
+        width: 15px;
+        height: 4px;
+        border-radius: 3px;
+        font-size: xx-small;
+    }
+    #choose{
+        background-image: url("Images/peace5.jpg");
+        width: 150px;
+        height: 70px;
+        text-align: center;
+        margin-left: 10px;
+        font-size: xx-small;
+        -webkit-text-fill-color: rgb(7, 7, 7);
+    }
+    #end{
+        width: 4px;
+        height: 4px;
+    }
+    #email{
+        width: 60px;
+        gap: 30%;
+        height: 5px;
+        border-radius: 7px;
+        font-size: xx-small;
+    }
+    #subscribe{
+        text-align: center;
+    }
+    #world{
+        width: 25px;
+        height: 7px;
+    }
+    #media{
+        width: 5px;
+        height: 5px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    #footer{
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8%;
+        margin-left: 30px;
+    }
+    #reserved{
+        text-align: center;
+    }
+}
