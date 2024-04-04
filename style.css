@@ -360,18 +360,19 @@
     
     }
     #world{
-        width: 3%;
-        height: 3%;
+        width: 70%;
+        height: 70%;
     }
     #image{
-        width: 15px;
-        height: 3px;
+        width: 100px;
+        height: 100px;
+        font-size: xx-small;
     }
     #navbar{
-        width: 145px;
-        height: 8px;
+        width: 380px;
+        height: 20px;
         background-color: rgb(193, 207, 207);
-        font-size: smaller;
+        font-size: xx-small;
         gap: 7%;
         display: flex;
         flex-wrap: wrap;
@@ -389,7 +390,7 @@
     #photo{
         background-image: url("Images/desert2.jpg");
         width: 16px;
-        height: 10px;
+        height: 16px;
     }
     #travel{
         font-size: smaller;
@@ -398,7 +399,7 @@
     }
     #buttonphoto{
         width: 40px;
-        height: 8px;
+        height: 15px;
         border-radius: 2px;
         background-color: orange;
         font-size: smaller;
@@ -408,32 +409,37 @@
         margin-left: 60px;
     }
     #words{
-        font-size: smaller;
+        font-size: xx-small;
     }
     #grand{
         background-image: url("Images/grandkor.webp");
-        width: 40px;
-        height: 30px;
+        width: 100px;
+        height: 80px;
         border-radius: 15px;
+        font-size: xx-small;
     }
     #bora{
         background-image: url("Images/mbabamb-3-largejpg.jpg");
-        width: 40px;
-        height: 30px;
+        width: 100px;
+        height: 80px;
+        font-size: xx-small;
         border-radius: 15px;
     }
     #wat{
         background-image: url("Images/angkor.jpg");
-        width: 40px;
-        height: 30px;
+        width: 100px;
+        height: 80px;
         border-radius: 15px;
+        font-size: xx-small;
     }
     #trees{
         display: flex;
         flex-wrap: wrap;
-        gap: 8%;
+        gap: 25%;
         margin: 10px;
+        height: 400px;
     }
+
     #image{
         background-color: aliceblue;
         width: 40px;
@@ -445,12 +451,15 @@
         width: 40px;
         height: 57px;
         border-radius: 15px;
+        font-size: x-small;
     }
     #images{
         background-color: rgb(248, 244, 236);
         width: 40px;
         height: 57px;
         border-radius: 15px;
+        font-size: xx-small;
+        gap: 10%;
     }  
     #words{
         text-align: center;
@@ -468,7 +477,8 @@
     }
     #buttons{
         border-radius: 10px;
-        width: 6px;
+        width: 10px;
+        height: 10px;
         display:inline-flex
     }
     #arrow1{
@@ -484,6 +494,8 @@
          display: flex;
          flex-wrap: wrap;
          gap: 5%;
+         width: 90%;
+         height: 500px;
          margin-left: 10px;
     }
     #set{
@@ -495,13 +507,13 @@
         height: 10px;
     }
     #scote{
-        width: 10px;
-        height: 5px;
+        width: 80px;
+        height: 40px;
         border-radius: 3px;
     }
     #italy{
-        width: 10px;
-        height: 5px;
+        width: 80px;
+        height: 40px;
         -webkit-text-fill-color: orange;
         border-radius: 3px;
         gap: 7%;
@@ -509,11 +521,12 @@
     #top{
         font-size: smaller;
         text-align: center;
+        gap: 5%;
     }
     #florence{
         background-image: url("Images/florence.webp");
-        width: 55px;
-        height: 30px;
+        width: 100px;
+        height: 50px;
         border-radius: 2px;
         
     }
@@ -527,8 +540,8 @@
     }
     #venice{
         background-image: url("Images/Grand_Canal_Venice (1).jpg");
-        width: 55px;
-        height: 30px;
+        width: 100px;
+        height: 50px;
         border-radius: 2px;
     }
     #flor{
@@ -550,8 +563,8 @@
     }
     #porto{
         background-image: url("Images/porto-cervo.jpg");
-        width: 55px;
-        height: 60px;
+        width: 100px;
+        height: 120px;
         border-radius: 2px;
     }
     #cervo{
@@ -562,8 +575,8 @@
     }
     #milan{
         background-image: url("Images/milan7.jpeg");
-        width: 40px;
-        height: 30px;
+        width: 100px;
+        height: 50px;
         border-radius: 2px;
     }
     #mil{
@@ -574,8 +587,8 @@
     }
     #rome{
         background-image: url("https://romesite.com/images/visit-rome-italy.jpg");
-        width: 40px;
-        height: 30px;
+        width: 100px;
+        height: 50px;
         border-radius: 2px;
     }
     #rom{
@@ -586,6 +599,7 @@
     }
     #clients{
         text-align: center;
+        font-size: xx-small;
     }
     #stars{
         display: flex;
@@ -593,6 +607,7 @@
         gap: 15%;
         text-align: center;
         margin-left: 22px;
+        font-size: x-small;
     }
     #customers{
          display: flex;
@@ -600,11 +615,11 @@
          gap: 5%;
     }
     #keya{
-         width: 7px;
-         height: 7px;
+         width: 150px;
+         height: 100px;
     }
     #rate{
-        width: 15px;
+        width: 50px;
     }
     #blog{
         text-align: center;
@@ -612,11 +627,11 @@
     }
     #exploring{
         background-image: url("Images/florence.webp");
-        width: 60px;
-        height: 40px;
+        width: 400px;
+        height: 400px;
         display: block;
         gap: 8%;
-        -webkit-text-fill-color: aliceblue;
+        -webkit-text-fill-color: rgb(239, 242, 245);
         margin-left: 5px;
     }
     #timeless{
@@ -624,8 +639,8 @@
         gap: 8%;
     }
     #price{
-        width: 6px;
-        height: 6px;
+        width: 80px;
+        height: 80px;
     }
     #details{
         display: flex;
@@ -645,14 +660,14 @@
         gap: 8%;
     }
     #form{
-        width: 40px;
-        height: 40px;
+        width: 200px;
+        height: 400px;
        font-size: smaller;
        background-color: aliceblue;
     }
     #tton{
-        width: 20px;
-        height: 7px;
+        width: 100px;
+        height: 30px;
         background-color: orange;
         border-radius: 3px;
         display: flex;
@@ -662,8 +677,8 @@
         margin-left: 5px;
     }
     #questions{
-        width: 130px;
-        height: 40px;
+        width: 380px;
+        height: 300px;
         display: flex;
         flex-wrap: wrap;
         gap: 20%;
@@ -677,36 +692,36 @@
         border-radius: 4px;
     }
     #log{
-        width: 15px;
-        height: 4px;
+        width: 100px;
+        height: 30px;
         background-color: orange;
         -webkit-text-fill-color: aliceblue;
         border-radius: 3px;
         font-size: xx-small;
     }
     #sign{
-        width: 15px;
-        height: 4px;
+        width: 100px;
+        height: 30px;
         border-radius: 3px;
         font-size: xx-small;
     }
     #choose{
         background-image: url("Images/peace5.jpg");
-        width: 150px;
-        height: 70px;
+        width: 380px;
+        height: 400px;
         text-align: center;
         margin-left: 10px;
         font-size: xx-small;
         -webkit-text-fill-color: rgb(7, 7, 7);
     }
     #end{
-        width: 4px;
-        height: 4px;
+        width: 40px;
+        height: 40px;
     }
     #email{
-        width: 60px;
+        width: 150px;
         gap: 30%;
-        height: 5px;
+        height: 50px;
         border-radius: 7px;
         font-size: xx-small;
     }
@@ -714,8 +729,8 @@
         text-align: center;
     }
     #world{
-        width: 25px;
-        height: 7px;
+        width: 150px;
+        height: 30px;
     }
     #media{
         width: 5px;
